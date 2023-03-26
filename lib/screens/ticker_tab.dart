@@ -77,14 +77,14 @@ class _TickerAdTabState extends State<TickerAdTab> {
               decoration: const InputDecoration(
                   filled: true,
                   fillColor: Color(0xFFFFFFFF),
-                  hintText: 'Отдам даром 0 789 545654'),
+                  hintText: 'Отдых на Иссык-Куле 0 789 545654'),
             ),
             const SizedBox(
               height: 40,
             ),
             const StepsWidget(
               number: '1',
-              description: 'Введите текст вашего объявления',
+              description: 'Введите текст объявления',
             ),
             sizedBox20,
             const StepsWidget(
